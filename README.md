@@ -14,3 +14,4 @@
 
 [lab-08](https://github.com/varshith192/AIML-lab/blob/main/LAB9.ipynb)
 
+[lab-10](https://github.com/varshith192/AIML-lab/blob/main/Lab10.ipynb)
